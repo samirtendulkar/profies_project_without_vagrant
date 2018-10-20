@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62a9e9ca-545c-471b-be4d-bf0fb7ba7848" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/profiles_api/permissions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,12 +22,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4238" />
+          <entry key="py" value="4302" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4238" />
+          <entry key="Python" value="4302" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,10 +50,10 @@
         <entry file="file://$PROJECT_DIR$/profiles_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="584">
-              <caret line="113" column="4" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="4" />
+              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1540045621077" expanded="true" signature="3211:3494" ph="..." />
+                <marker date="1540045963753" expanded="true" signature="3246:3611" ph="..." />
               </folding>
             </state>
           </provider>
@@ -313,18 +312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/profiles_api/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <marker date="1540043823613" expanded="true" signature="119:124" ph="..." />
-            <marker date="1540043823613" expanded="true" signature="287:760" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/profiles_api/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -346,13 +333,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/profiles_api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <marker date="1540043823613" expanded="true" signature="119:124" ph="..." />
+            <marker date="1540043823613" expanded="true" signature="287:760" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/profiles_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
-          <caret line="113" column="4" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="4" />
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1540045621077" expanded="true" signature="3211:3494" ph="..." />
+            <marker date="1540045963753" expanded="true" signature="3246:3611" ph="..." />
           </folding>
         </state>
       </provider>
